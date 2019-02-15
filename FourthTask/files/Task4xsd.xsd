@@ -1,0 +1,99 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.epam.training.by/classes"
+        xmlns:tns="http://www.epam.training.by/classes"
+        elementFormDefault="qualified">
+
+
+    <element name="candies">
+        <complexType>
+            <sequence>
+                <element name="candy" type="tns:Candy" minOccurs="1" maxOccurs="unbounded"></element>
+            </sequence>
+        </complexType>
+    </element>
+
+    <complexType name="Candy">
+        <sequence>
+            <element name="name" type="string"/>
+            <element name="energy" type="nonNegativeInteger"/>
+            <element name="ingredients" type="tns:Ingredients"/>
+            <element name="value" type="tns:Value"/>
+            <element name="production" type="string"/>
+        </sequence>
+        <attribute name="id" type="tns:CandyId" use="required"/>
+        <attribute name="type" type="tns:CandyType" use="required"/>
+        <attribute type="string" name="topping" use="optional" />
+    </complexType>
+
+<simpleType name="CandyType">
+            <restriction base="string">
+            <enumeration value="caramel" />
+            <enumeration value="chocolate" />
+            <enumeration value="souffle" />
+            </restriction>
+    </simpleType>
+
+    <complexType name="CaramelType">
+        <complexContent>
+            <extension base="tns:Candy"/>
+        </complexContent>
+    </complexType>
+
+    <complexType name="ChocolateType">
+        <complexContent>
+            <extension base="tns:Candy">
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <complexType name="SouffleType">
+        <complexContent>
+            <extension base="tns:Candy"/>
+        </complexContent>
+    </complexType>
+
+
+    <simpleType name="CandyId">
+        <restriction base="ID">
+            <pattern value="([a-zA-Z])[\d]{2,5}"/>
+        </restriction>
+    </simpleType>
+
+    <complexType name="Ingredients">
+        <sequence>
+            <element name="water">
+                <simpleType>
+                    <restriction base="nonNegativeInteger">
+                        <maxInclusive value="1000" />
+                    </restriction>
+                </simpleType>
+            </element>
+            <element name="sugar" type="nonNegativeInteger"/>
+            <element name="fructose" type="nonNegativeInteger"/>
+            <element name="vanilla" type="nonNegativeInteger"/>
+            <element name="chocolatetype" minOccurs="0">
+                <simpleType>
+                    <restriction base="string">
+                        <enumeration value="white" />
+                        <enumeration value="milk" />
+                        <enumeration value="dark" />
+                    </restriction>
+                </simpleType>
+            </element>
+        </sequence>
+    </complexType>
+
+    <complexType name="Value">
+        <sequence>
+            <element name="proteins" type="nonNegativeInteger"/>
+            <element name="fats" type="nonNegativeInteger"/>
+            <element name="carbohydrates" type="nonNegativeInteger"/>
+        </sequence>
+    </complexType>
+
+    <element name="candy" type="tns:Candy" abstract="true"></element>
+    <element name="caramel" type="tns:CaramelType" substitutionGroup="tns:candy"/>
+    <element name="chocolate" type="tns:ChocolateType" substitutionGroup="tns:candy"/>
+    <element name="souffle" type="tns:SouffleType" substitutionGroup="tns:candy"/>
+
+</schema>

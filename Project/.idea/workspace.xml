@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf3a44b5-18a2-4a68-8124-d8b4269558c0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2103969121">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="2" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="2" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.file.types.edit" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/entity/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="73" column="22" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/exception/ProjectExeption.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/TriangleObserver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="19" column="64" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/reader/DataFileReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/action/TriangleActionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="21" selection-start-line="25" selection-start-column="7" selection-end-line="40" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="16" selection-end-line="28" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/creater/TriangleCreaterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/reader/DataFileReaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/firstTask/entity/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/firstTask/validator/DataValidator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/firstTask/creater/TriangleCreaterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/firstTask/entity/Point.java" />
+        <option value="$PROJECT_DIR$/src/main/java/firstTask/generator/IdGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/firstTask/creation/TriangleCreater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/firstTask/observer/Subject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/firstTask/observer/Observer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/firstTask/observer/EventRegistr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/firstTask/observer/Subsckiber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/task01/epam12/task01/action/TriangleAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/task01/action/action/TriangleAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/task01/action/TriangleAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/Observed.java" />
+        <option value="$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/action/TriangleActionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/entity/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/OperationObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/TrianlgleListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/Listener/OperationObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/Listener/Warehouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/Listener/TrianlgleListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/repository/TriangleSpecification.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/repository/TtiangleSpecificationById.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/repository/TrianlgeSpecificationByName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/repository/TriangleSpecificationByPoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/listener/TrianlgleListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/comparator/Idcomparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/comparator/Trianglecomparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/comparator/CompasiteComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/comparator/TriangleCompereble.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/comparator/TriangleComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/comparator/CompositeComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/EventObserver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/generator/IdGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/validator/DataValidatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/Warehouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/reader/DataFileReader.java" />
+        <option value="$PROJECT_DIR$/data/data.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/validator/DataValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/entity/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/generator/IdGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/creation/TriangleCreater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/entity/Point.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/action/TriangleAction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/creater/TriangleCreaterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/TriangleObserver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/observer/TriangleObserverTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/comporator/CompositeComporator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/repository/TriangleRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/repository/Repository.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="6" />
+    <option name="width" value="1083" />
+    <option name="height" value="1062" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FirstTask" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Project" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Project" type="616d4139:PackageViewModuleNode" />
+              <item name="data" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="task01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="task01" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="task01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="task01" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="task01" type="462c0819:PsiDirectoryNode" />
+              <item name="creater" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="task01" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/TAT/helloci/Java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project" />
+      <recent name="E:\Project\src\main\resources\data" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="by.htp.epam12.task01" />
+      <recent name="by.htp.epam12.task01.action" />
+      <recent name="by.htp.task01" />
+      <recent name="by.htp.task01.action" />
+      <recent name="firstTask" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="by.htp.epam12.task01.repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\src\test\java\testData" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TriangleCreaterTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Repository" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.htp.epam12.task01.repository.Repository" />
+      <module name="Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.htp.epam12.task01.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleObserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.htp.epam12.task01.observer.TriangleObserver" />
+      <module name="Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.htp.epam12.task01.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleCreaterTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.htp.epam12.task01.creater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.htp.epam12.task01.creater" />
+      <option name="MAIN_CLASS_NAME" value="by.htp.epam12.task01.creater.TriangleCreaterTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleCreaterTest.createTriangleTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.htp.epam12.task01.creater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.htp.epam12.task01.creater" />
+      <option name="MAIN_CLASS_NAME" value="by.htp.epam12.task01.creater.TriangleCreaterTest" />
+      <option name="METHOD_NAME" value="createTriangleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleObserverTest.update" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.htp.epam12.task01.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.htp.epam12.task01.observer" />
+      <option name="MAIN_CLASS_NAME" value="by.htp.epam12.task01.observer.TriangleObserverTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TriangleObserver" />
+      <item itemvalue="TestNG.TriangleObserverTest.update" />
+      <item itemvalue="TestNG.TriangleCreaterTest.createTriangleTest" />
+      <item itemvalue="Application.Repository" />
+      <item itemvalue="TestNG.TriangleCreaterTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TriangleCreaterTest" />
+        <item itemvalue="Application.Repository" />
+        <item itemvalue="TestNG.TriangleCreaterTest.createTriangleTest" />
+        <item itemvalue="Application.TriangleObserver" />
+        <item itemvalue="TestNG.TriangleObserverTest.update" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf3a44b5-18a2-4a68-8124-d8b4269558c0" name="Default" comment="" />
+      <created>1538552815609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538552815609</updated>
+      <workItem from="1538552829155" duration="15864000" />
+      <workItem from="1538575096408" duration="14381000" />
+      <workItem from="1538636926340" duration="16245000" />
+      <workItem from="1538980747241" duration="2011000" />
+      <workItem from="1538985900701" duration="29687000" />
+      <workItem from="1539067326724" duration="2974000" />
+      <workItem from="1539079929093" duration="1284000" />
+      <workItem from="1539150622309" duration="29177000" />
+      <workItem from="1539187968422" duration="17904000" />
+      <workItem from="1539270725996" duration="1347000" />
+      <workItem from="1539327320956" duration="30785000" />
+      <workItem from="1539369448278" duration="23989000" />
+      <workItem from="1539453765815" duration="3989000" />
+      <workItem from="1539501370180" duration="1181000" />
+      <workItem from="1539588700732" duration="1437000" />
+      <workItem from="1539709023167" duration="994000" />
+      <workItem from="1539742930399" duration="2764000" />
+      <workItem from="1539756466309" duration="35345000" />
+      <workItem from="1539803036058" duration="4935000" />
+      <workItem from="1539846315784" duration="4436000" />
+      <workItem from="1541622729227" duration="629000" />
+      <workItem from="1541663153353" duration="1317000" />
+      <workItem from="1541668401445" duration="170000" />
+      <workItem from="1541682508593" duration="1333000" />
+      <workItem from="1542867427626" duration="854000" />
+      <workItem from="1543685725760" duration="634000" />
+      <workItem from="1543746412056" duration="1314000" />
+      <workItem from="1544528690631" duration="619000" />
+      <workItem from="1544681994450" duration="49000" />
+      <workItem from="1549025483863" duration="653000" />
+      <workItem from="1549962668079" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TriangleCreaterTest - 2018.10.18 at 11h 40m 33s.xml">
+      <configuration name="TriangleCreaterTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TriangleCreaterTest_createTriangleTest - 2018.10.17 at 17h 59m 15s.xml">
+      <configuration name="TriangleCreaterTest.createTriangleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TriangleCreaterTest_createTriangleTest - 2018.10.17 at 18h 15m 55s.xml">
+      <configuration name="TriangleCreaterTest.createTriangleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TriangleCreaterTest_createTriangleTest - 2018.10.17 at 18h 30m 59s.xml">
+      <configuration name="TriangleCreaterTest.createTriangleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TriangleCreaterTest_createTriangleTest - 2018.10.17 at 18h 31m 42s.xml">
+      <configuration name="TriangleCreaterTest.createTriangleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TriangleCreaterTest_createTriangleTest - 2018.10.17 at 18h 39m 07s.xml">
+      <configuration name="TriangleCreaterTest.createTriangleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TriangleCreaterTest_createTriangleTest - 2018.10.17 at 18h 45m 38s.xml">
+      <configuration name="TriangleCreaterTest.createTriangleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TriangleCreaterTest_createTriangleTest - 2018.10.17 at 18h 54m 37s.xml">
+      <configuration name="TriangleCreaterTest.createTriangleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TriangleObserverTest_update - 2018.10.17 at 13h 26m 25s.xml">
+      <configuration name="TriangleObserverTest.update" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TriangleObserverTest_update - 2018.10.17 at 13h 29m 40s.xml">
+      <configuration name="TriangleObserverTest.update" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="248905000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22844176" />
+      <window_info id="Structure" order="1" weight="0.19667171" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21732284" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32913387" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32913387" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32913387" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="965">
+          <caret line="145" column="26" lean-forward="true" selection-start-line="145" selection-start-column="26" selection-end-line="145" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/firstTask/action/parser/DataParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/firstTask/action/parser/parseDataLine.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/data/defaultData" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/sun/nio/fs/WindowsException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/defaultData.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="373" selection-start-line="373" selection-end-line="373" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/EventRegistr.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/Subsckiber.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/Observed.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/listener/Warehouse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/entity/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/repository/TrianlgeSpecificationByName.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/comparator/TriangleComparator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/comparator/TriangleCompereble.java" />
+    <entry file="file://$PROJECT_DIR$/logs/calc/error.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/listener/OperationObserver.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/EventObserver.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/listener/TrianlgleListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/generator/IdGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/validator/DataValidatorTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/validator/DataValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/entity/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/generator/IdGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testData/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/Warehouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="79" lean-forward="true" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/observer/TriangleObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/repository/TtiangleSpecificationById.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/repository/TriangleSpecification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/repository/TriangleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/repository/TriangleSpecificationByPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/comporator/CompositeComporator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/action/TriangleAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/repository/Repository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/creation/TriangleCreater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/entity/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="73" column="22" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/exception/ProjectExeption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/observer/TriangleObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="64" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/htp/epam12/task01/reader/DataFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/action/TriangleActionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="21" selection-start-line="25" selection-start-column="7" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/creater/TriangleCreaterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/by/htp/epam12/task01/reader/DataFileReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.27</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
